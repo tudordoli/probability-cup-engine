@@ -1,0 +1,19 @@
+[
+  {
+    "match": "Panama vs England",
+    "questions": [
+      "Will Panama score at least 1 goal?",
+      "At halftime, will the match be tied?",
+      "Will the match have 3 or more total goals?",
+      "Will Harry Kane have at least 1 shot on target?"
+    ]
+  },
+  {
+    "match": "Portugal vs Spain",
+    "questions": [
+      "Will Cristiano Ronaldo (Portugal) score a goal (excluding own goals) in regulation (90 minutes + stoppage time)?",
+      "Will Spain advance to the quarterfinals?",
+      "Will Portugal score the first goal of the match in regulation (90 minutes + stoppage time)?"
+    ]
+  }
+]
