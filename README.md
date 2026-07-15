@@ -1,5 +1,8 @@
 # Jump Probability Bot
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 <p align="center">
   <img src="assets/jump-trading.png" alt="Jump Trading" width="360" />
 </p>
