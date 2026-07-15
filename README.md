@@ -409,20 +409,3 @@ The evaluation mode:
 | Not trained ML | This is a probabilistic forecasting pipeline, not a learned model |
 | Partial prop support | Some player and event props need manual odds coverage to be usable |
 | Monte Carlo is optional | It is a comparison module, not the main decision engine |
-
-## Suggested Images To Add Next
-
-If you want to make the GitHub page even stronger, the most useful images would be:
-
-| Image | Why it helps |
-|---|---|
-| Terminal screenshot of a successful dry-run | Shows the project working immediately |
-| Screenshot of `latest_predictions.csv` opened in a spreadsheet | Makes the report tangible |
-| Small architecture diagram export | Good visual overview for recruiters |
-| Screenshot of evaluation output / Brier summary | Shows this is more than a toy predictor |
-| Before-vs-after example of a mapped question and matched CSV row | Great for explaining the core idea |
-
-The best single next image would be a clean screenshot of:
-
-- one sample run
-- with `READY`, `SKIPPED`, confidence, and Monte Carlo columns visible
