@@ -1,0 +1,18 @@
+match_name,home_team,away_team,market_type,selection,line,period,decimal_odds,american_odds,bookmaker
+Panama vs England,Panama,England,match_winner,Panama,,full_match,6.20,,manual
+Panama vs England,Panama,England,match_winner,England,,full_match,1.55,,manual
+Panama vs England,Panama,England,match_winner,Draw,,full_match,4.20,,manual
+Panama vs England,Panama,England,total_goals_over,Over,2.5,full_match,1.80,,manual
+Panama vs England,Panama,England,total_goals_under,Under,2.5,full_match,2.00,,manual
+Panama vs England,Panama,England,team_score_at_least_1,Panama,0.5,full_match,2.20,,manual
+Panama vs England,Panama,England,halftime_tied,Yes,,first_half,2.05,,manual
+Panama vs England,Panama,England,total_corners,Over,8.5,full_match,1.91,,manual
+Panama vs England,Panama,England,cards,Over,3.5,full_match,1.86,,manual
+Panama vs England,Panama,England,penalty_or_red_card,Yes,,full_match,3.40,,manual
+Portugal vs Spain,Portugal,Spain,team_advance,Spain,,extra_time,1.85,,manual
+Portugal vs Spain,Portugal,Spain,first_team_to_score,Portugal,,regulation,1.95,,manual
+Portugal vs Spain,Portugal,Spain,team_corners,Spain,5.5,regulation,1.88,,manual
+Portugal vs Spain,Portugal,Spain,player_goal,Cristiano Ronaldo,,regulation,2.60,,manual
+Portugal vs Spain,Portugal,Spain,player_shot_on_target,Bruno Fernandes,0.5,regulation,1.74,,manual
+Portugal vs Spain,Portugal,Spain,halftime_team_leading,Spain,,first_half,3.10,,manual
+Croatia vs Ghana,Croatia,Ghana,team_shots_on_target,Croatia,5.5,full_match,1.95,,manual
