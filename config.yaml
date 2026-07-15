@@ -1,0 +1,28 @@
+sportspredict:
+  base_url: https://api.sportspredict.com/api/v1
+  probability_event_title: Jump Trading Probability Cup
+  rate_limit_per_minute: 60
+
+odds:
+  provider: manual
+  base_url: https://api.the-odds-api.com/v4
+  bookmaker: manual
+  sport_key: soccer_fifa_world_cup
+  regions: eu
+  markets: h2h,totals
+  odds_format: decimal
+  manual_odds_path: data/manual_odds.csv
+  team_aliases_path: data/team_aliases.csv
+
+models:
+  market_weight: 0.80
+  model_weight: 0.15
+  news_weight: 0.05
+  min_probability: 1
+  max_probability: 99
+
+output:
+  report_dir: data/cache
+  report_filename: latest_predictions.csv
+  submission_filename: latest_submission.json
+  history_dir: data/cache/history
