@@ -33,7 +33,7 @@ Instead of pretending to be a fully automated sportsbook intelligence platform, 
 
 ## Competition Snapshot
 
-This bot was entered into the competition **late, with only 9 matches remaining**, and still managed to climb significantly in the standings.
+This bot was entered into the competition **late, with only 10 matches remaining**, and still managed to climb significantly in the standings.
 
 Final competition highlights:
 
