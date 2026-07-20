@@ -35,15 +35,15 @@ Instead of pretending to be a fully automated sportsbook intelligence platform, 
 
 This bot was entered into the competition **late, with only 9 matches remaining**, and still managed to climb significantly in the standings.
 
-So far, the live results include:
+Final competition highlights:
 
 | Result | Context |
 |---|---|
-| Top 10% overall climb | Achieved despite joining very late in the tournament |
+| Top 5% overall finish | Final competition result despite joining with only 10 matches left |
 | Top 3 scorer on some individual matches | Strong match-level performance against the field |
-| Top 1% match achievement | Awarded for a standout settled match result |
+| Top 1% match achievement | Peak single-match result, including a 2nd place settled match finish |
 
-These are **interim competition results**, not a final overall finish, since the tournament was still ongoing at the time of writing.
+This combination of a **late entry**, a **top 5% final finish**, and a **top 1% peak match result** is the strongest proof point for the project in live competition use.
 
 ### Match-level result
 
@@ -60,14 +60,15 @@ Example highlight:
 ### Competition performance summary
 
 <p align="center">
-  <img src="assets/performance-summary.png" alt="Competition performance summary" width="900" />
+  <img src="assets/final-performance-summary.png" alt="Final competition performance summary" width="900" />
 </p>
 
-At one point in live competition tracking, the account showed:
+Final competition metrics shown here include:
 
 - better than **95% of forecasters**
-- **60 settled forecasts**
+- **155 settled forecasts**
 - positive **RBP gap vs crowd**
+- positive **confidence bias**
 
 ## Why This Design
 
